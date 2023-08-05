@@ -23,3 +23,4 @@ Only 100 robux, once purchased, 7 scripts can be supported with Defender before 
 **You can secure a script update with defender an unlimited amount of times.**
 
 ### VERSION: V1 - STABLE RELEASE
+![image](https://github.com/FlyingNalas/rlxl.gateway/assets/139919935/1e62d983-3216-466c-9d72-ae3576002e1b)
